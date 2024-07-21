@@ -10,7 +10,6 @@
   "license": "UNLICENSED",
   "description": "Replaces all textures in a given folder with a given image, simple as that.",
   "dependencies": {
-    "prompt-sync": "^4.2.0",
     "sharp": "^0.33.4"
   }
 }

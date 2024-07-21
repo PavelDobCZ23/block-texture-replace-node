@@ -45,7 +45,7 @@ async function main() {
             console.log(`Processing '${filePath}'.`);
             imageData.toFile(filePath,(err,info) => {
                 if (err) {
-                    console.error(`Error when processing '${Path.join(value.parentPath,value.name)}'!`);
+                    console.error(`Error when processing '${filePath}'!`);
                     console.error(`${err}`);
                 }
             });
