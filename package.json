@@ -1,0 +1,16 @@
+{
+  "name": "block-texture-replace",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "PavelDobCZ23",
+  "license": "UNLICENSED",
+  "description": "Replaces all textures in a given folder with a given image, simple as that.",
+  "dependencies": {
+    "prompt-sync": "^4.2.0",
+    "sharp": "^0.33.4"
+  }
+}
